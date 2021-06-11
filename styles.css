@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Shadows Into Light';
+  color: #125d98;
+
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem;
+  color: #125d98;
+}
+
+h2 {
+
+font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+}
+
+hr {
+  border: dotted #f4c7ab 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.top-container {
+  background-color: #fff5eb;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 100px;
+
+}
+.bottom-container {
+  background-color: #ffe2ad;
+  padding: 20px 0 20px 0;
+  font-family: 'Merriweather', serif;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.profile {
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  width: 110px;
+
+  /*<div>Icons made by <a href="" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+
+}
+
+.top-sun {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+  width: 150px;
+  /*<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+  /*<div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
+}
+
+.circle {
+  float: left;
+  margin-right: 30px;
+  width: 34%
+}
+
+.skillset {
+  float: left;
+  margin-right: 30px;
+  width: 40%
+}
+
+.btn {
+  background: #ffe2ad;
+  background-image: -webkit-linear-gradient(top, #ffe2ad, #d6aa3c);
+  background-image: -moz-linear-gradient(top, #ffe2ad, #d6aa3c);
+  background-image: -ms-linear-gradient(top, #ffe2ad, #d6aa3c);
+  background-image: -o-linear-gradient(top, #ffe2ad, #d6aa3c);
+  background-image: linear-gradient(to bottom, #ffe2ad, #d6aa3c);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f2ebd5;
+  background-image: -webkit-linear-gradient(top, #f2ebd5, #d4d496);
+  background-image: -moz-linear-gradient(top, #f2ebd5, #d4d496);
+  background-image: -ms-linear-gradient(top, #f2ebd5, #d4d496);
+  background-image: -o-linear-gradient(top, #f2ebd5, #d4d496);
+  background-image: linear-gradient(to bottom, #f2ebd5, #d4d496);
+  text-decoration: none;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
